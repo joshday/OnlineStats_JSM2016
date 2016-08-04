@@ -1,10 +1,4 @@
-# OnlineStats.jl
+# JSM 2016 - OnlineStats.jl
 
-Josh Day
 
----
-
-## Something
-```julia
-x = randn(5)
-```
+# [Slides](JSM_Talk.ipynb)
